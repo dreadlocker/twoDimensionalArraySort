@@ -56,4 +56,4 @@ twoDimensionalArray.sort((a, b) => {
     return b[1] - a[1] || b[0] - a[0];
 });
 
-twoDimensionalArray.map((e, index)=> console.log(twoDimensionalArray[index]))
+twoDimensionalArray.map((e, index) => console.log(twoDimensionalArray[index]))
